@@ -6,3 +6,5 @@ To use this code, you can just simply type"python train.py" in you cmd.
 To change the config, open the train.py.
 
 Good luck!
+
+My very talented co-workers: zouyou and xietian. 
